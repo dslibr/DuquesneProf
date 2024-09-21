@@ -44,11 +44,11 @@ For the project outlined below, students, individually, conduct research consist
 <a href="https://dslibr.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/Stats-Project-Instructions.pdf" target="_blank">Project Instructions</a><br/>
 <a href="https://dslibr.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/Stats-Project-Rubric-Spr15.pdf" target="_blank">Stats Project Rubric</a><br/>
 
-##### Examples of Student Work
+[//]: # "##### Examples of Student Work"
 
-<a href="https://dslibr.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/SATScoresIncome-Spring15.pdf" target="_blank">SAT Scores Income Spring 15</a><br/>
-<a href="https://dslibr.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/NurseAnesthetistsSalary-Spring15.pdf" target="_blank">Nurse Anesthetists Salary Spring 15</a><br/>
-<a href="https://dslibr.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/Lucky7s-Spring15.pdf" target="_blank">Lucky 7s Spring 15</a><br/>
-<a href="https://dslibr.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/NFLRunningBack-Spring15.pdf" target="_blank">NFL Running Back Spring 15</a><br/>
-<a href="https://dslibr.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/HockeyPeriodScores-Spring15.pdf" target="_blank">Hockey Period Scores Spring 15</a><br/>
-<a href="https://dslibr.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/PenguinWins-Spring15.pdf" target="_blank">Penguin Wins Spring 15</a>
+[//]: # "SAT Scores Income Spring 15"
+[//]: # "Nurse Anesthetists Salary Spring 15"
+[//]: # "Lucky 7s Spring 15"
+[//]: # "NFL Running Back Spring 15"
+[//]: # "Hockey Period Scores Spring 15"
+[//]: # "Penguin Wins Spring 15"
